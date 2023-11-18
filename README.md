@@ -1,0 +1,2 @@
+# projetoSomatoria
+Desafio técnico.
